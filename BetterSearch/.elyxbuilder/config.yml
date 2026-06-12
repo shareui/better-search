@@ -5,7 +5,7 @@ buildNameCompiled: 'BetterSearch-{version}-3.11'
 ignoreAll:
 - BetterSearch/.elyxbuilder/cache/*
 compilationIgnore:
-- BetterSearch/src/main.py
+- BetterSearch/src/BasePlugin.py
 obfuscationConfig:
   stripDocstrings: true
   removeLogs: true
