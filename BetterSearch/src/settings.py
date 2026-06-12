@@ -37,6 +37,7 @@ def buildSettingsList(plugin) -> List[Any]:
         Text(
             text=strings["SOURCE_CODE"],
             icon="msg_link2",
+            subtext=strings["LICENSE"],
             on_click=plugin._onSourceCodeClick
         ),
         Divider(text=strings["CHANNEL_NOTE"]),

@@ -31,5 +31,6 @@
   "INSTALLED": "Успешно установлено! Перезапустите приложение.",
   "LIB_DESCRIPTION": "Для работы плагина необходимо установить [нативную библиотеку](https://github.com/shareui/better-search).",
   "LICENSE": "Находится под Apache-2.0",
+  "MISC_HEADER": "Разное",
   "CHANNEL_NOTE": "Следить за обновлениями плагина можно в канале [Docta Share](https://t.me/doctashare)."
 }
