@@ -1,0 +1,5 @@
+metainfo: BetterSearch/meta.yml
+main: BetterSearch/src/BasePlugin.py
+# assets: BetterSearch/res
+strings: BetterSearch/locales
+elyxbuilder: BetterSearch/.elyxbuilder

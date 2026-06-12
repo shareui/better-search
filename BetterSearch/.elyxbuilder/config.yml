@@ -1,0 +1,16 @@
+zipFormat: eaf
+source: BetterSearch/src
+buildNameUncompiled: 'BetterSearch-{version}'
+buildNameCompiled: 'BetterSearch-{version}-3.11'
+ignoreAll:
+- BetterSearch/.elyxbuilder/cache/*
+compilationIgnore:
+- BetterSearch/src/main.py
+obfuscationConfig:
+  stripDocstrings: true
+  removeLogs: true
+  renameLocals: true
+  encodeStrings: true
+  encodeNumbers: true
+  zlibCompression: false
+  saveMapping: true
