@@ -2,7 +2,7 @@ name: Better Search
 description: "{description}"
 id: shareui_bettersearch
 version: "0.1.0"
-author: "@shareui"
+author: "@shareui(@doctashare)"
 app_version: ">=12.6.4"
 sdk_version: ">=1.4.3.3"
 elyx_version: ">=0.9.2b"
